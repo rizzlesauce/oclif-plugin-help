@@ -1,7 +1,7 @@
 {
   "name": "@rizzlesauce/oclif-plugin-help",
   "description": "standard help for oclif",
-  "version": "2.2.4-rossa.1",
+  "version": "2.2.4-rossa.2",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/rizzlesauce/oclif-plugin-help/issues",
   "dependencies": {
