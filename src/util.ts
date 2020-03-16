@@ -1,5 +1,5 @@
 import lodashTemplate = require('lodash.template')
-import * as Config from '@oclif/config'
+import * as Config from '@rizzlesauce/oclif-config'
 import Help from '.'
 
 export function uniqBy<T>(arr: T[], fn: (cur: T) => any): T[] {

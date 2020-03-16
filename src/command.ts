@@ -1,4 +1,4 @@
-import * as Config from '@oclif/config'
+import * as Config from '@rizzlesauce/oclif-config'
 import chalk from 'chalk'
 import escapeStringRegexp = require('escape-string-regexp')
 import indent = require('indent-string')

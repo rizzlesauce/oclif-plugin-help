@@ -1,4 +1,4 @@
-import * as Config from '@oclif/config'
+import * as Config from '@rizzlesauce/oclif-config'
 import {error} from '@oclif/errors'
 import chalk from 'chalk'
 import indent = require('indent-string')

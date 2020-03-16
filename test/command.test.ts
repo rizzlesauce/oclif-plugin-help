@@ -1,5 +1,5 @@
-import {Command as Base, flags} from '@oclif/command'
-import * as Config from '@oclif/config'
+import {Command as Base, flags} from '@rizzlesauce/oclif-command'
+import * as Config from '@rizzlesauce/oclif-config'
 import {expect, test as base} from '@oclif/test'
 import stripAnsi = require('strip-ansi')
 
